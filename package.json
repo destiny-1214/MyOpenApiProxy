@@ -1,5 +1,5 @@
 {
-  "name": "openai-api-proxy",
+  "name": "destiny-proxy",
   "version": "1.0.0",
   "description": "A Cloudflare Worker that proxies requests to OpenAI API",
   "main": "worker.js",
