@@ -9,3 +9,6 @@ command = ""
 
 [build.upload]
 format = "service-worker"
+
+[observability.logs]
+enabled = true
