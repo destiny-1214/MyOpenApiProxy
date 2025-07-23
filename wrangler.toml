@@ -1,4 +1,4 @@
-name = "openai-api-proxy"
+name = "destiny-proxy"
 type = "javascript"
 
 main = "worker.js"
