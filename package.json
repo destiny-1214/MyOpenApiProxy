@@ -1,0 +1,21 @@
+{
+  "name": "openai-api-proxy",
+  "version": "1.0.0",
+  "description": "A Cloudflare Worker that proxies requests to OpenAI API",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "publish": "wrangler publish"
+  },
+  "keywords": [
+    "cloudflare",
+    "worker",
+    "openai",
+    "proxy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
