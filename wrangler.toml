@@ -11,4 +11,4 @@ command = ""
 format = "service-worker"
 
 [observability.logs]
-enabled = false
+enabled = true
